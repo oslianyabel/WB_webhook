@@ -30,4 +30,4 @@ def receive_webhook():
 
 if __name__ == '__main__':
     print(f"\nListening on port {port}\n")
-    app.run(host='0.0.0.0', port
+    app.run(host='0.0.0.0', port)
